@@ -1,1 +1,6 @@
-
+* BF_properties: computes different properties of Boolean functions. (file derived from https://github.com/asamallab/MCBF)
+* BF_checkers: checks whether a given BF satisfies biologically meaningful properties. (file derived from https://github.com/asamallab/MCBF)
+* BF_generators: generates a list of different types of BFs. (file derived from https://github.com/asamallab/MCBF)
+We have two other notebooks 
+* Chain functions final nb- This notebook contains all the codes needed to reproduce the results and plots in the paper
+* compute p_vals nb- This is an R notebook containing the codes needed for the statistical tests we performed. 
