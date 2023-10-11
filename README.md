@@ -17,4 +17,5 @@ We analyze BFs extracted from a large dataset of reconstructed Boolean models fr
 Contains all the data necessary for reproducing the results in this manuscript.
 
 ## CITATION
-S. Mitra#, P. Sil#, A. Subbaroyan#, O. C. Martin* and A. Samal*. Preponderance of generalized chain functions in reconstructed Boolean models of biological networks.
+S. Mitra#, P. Sil#, A. Subbaroyan#, O. C. Martin* and A. Samal*. Preponderance of generalized chain functions in reconstructed Boolean models of biological networks.<br>
+bioRxiv 2023.10.08.561412; doi: https://doi.org/10.1101/2023.10.08.561412 <br>
