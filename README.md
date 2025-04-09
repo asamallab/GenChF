@@ -3,7 +3,7 @@
 GenChF repository contains the codes and data associated with the following research article: <br>
 
 Suchetana Mitra<sup>#</sup>, Priyotosh Sil<sup>#</sup>, Ajay Subbaroyan<sup>#</sup>, Olivier C. Martin* and Areejit Samal*, [<i>Preponderance of generalized chain functions in reconstructed Boolean models of biological networks</i>](https://www.nature.com/articles/s41598-024-57086-y), Scientific Reports, 14(1):6734, 2024. <br>
-(<sup>#</sup> Equal contributions, * Corresponding authors).
+(<sup>#</sup>Equal contributions, *Corresponding authors).
 
 The central question we address in this work is whether that enrichment is due to certain sub-types of NCFs. 
 We analyze BFs extracted from a large dataset of reconstructed Boolean models from the BBM benchmark dataset, MCBF dataset, and Harris dataset, and find that generalized chain functions are significantly enriched within the NCFs. 
